@@ -1,0 +1,30 @@
+{
+  "name": "course-on-javascript",
+  "version": "1.0.0",
+  "description": "Curso de JavaScript con ejemplos prácticos y buenas prácticas de programación.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlitosDeveloper/course-on-javascript.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Course",
+    "CarlitosDeveloper"
+  ],
+  "author": "Carlos Alberto Calderon Barrios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlitosDeveloper/course-on-javascript/issues"
+  },
+  "homepage": "https://github.com/CarlitosDeveloper/course-on-javascript#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "eslint": "^9.21.0",
+    "globals": "^16.0.0"
+  }
+}
